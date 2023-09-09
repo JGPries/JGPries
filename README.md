@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Georg Pries Trujillo</h1>
 <h3 align="center">Here is where I will share my virtual journey!</h3>
 <h3 align="center">A passionate frontend developer from Spain. Skater in the free time.</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/rOGuft1jgiq66zpQI2/giphy.gif?cid=6c09b952q1orn7d4tpn79djgmrwwid23ssde6u1239acyd0q&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/rOGuft1jgiq66zpQI2/giphy.gif?cid=6c09b952q1orn7d4tpn79djgmrwwid23ssde6u1239acyd0q&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on [a Photographer portfolio](skatermanco.com)
 
