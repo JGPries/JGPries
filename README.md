@@ -2,7 +2,7 @@
 
 #### You can find my proffesional profile over here:
 
-- [Linkedin](https://www.linkedin.com/in/juan-between-the-codes/)
+[![Linkedin](https://img.shields.io/badge/Juan_Georg_Pries_Trujillo-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-between-the-codes/)
 
 ### Skills:
 
