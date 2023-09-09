@@ -22,5 +22,5 @@
 
 <p align="center"> I'm half spanish and half german. Born in spain, raised in both countries. Currently I'm looking for work actively, in the meantime I'm always programing, creating and learning, and when I need some fresh air, you can find me in some skatepark getting dirty, falling and getting up ready to continue, always with a smile, because surrender was never an option.</p>
 
-<img align="left" alt="skating" width="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png">
+<img align="left" alt="skating" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png">
 <img align="center" alt="skating" width="400" src="https://i.pinimg.com/originals/bb/be/cd/bbbecd24dfcd9f2d52cd92457c02e68e.gif">
