@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a Photographer portfolio](skatermanco.com)
 
-- 🌱 I’m currently learning **Angular, C# , .NET**
+- 🌱 I’m currently learning **Angular, .NET**
 
 - 📫 How to reach me **juangeorgpriestrujillo@gmail.com**
 
